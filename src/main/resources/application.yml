@@ -7,3 +7,7 @@ spring:
       url: jdbc:mysql://localhost:3306/brain-science-research?serverTimeout=UTC
       username: root
       password: dream010923**
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto
